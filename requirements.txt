@@ -1,3 +1,7 @@
 discord.py
-dotenv
+python-dotenv
+yt-dlp
+spotipy
+PyNaCl
+opuslib
 
